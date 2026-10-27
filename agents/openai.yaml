@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gal Finder"
+  short_description: "多站查找 Galgame，提取直链并搭配网盘、核查分享及整理密码备注"
+  default_prompt: "使用 $gal-finder 查找指定 Galgame，提取直链但不核查有效性；有直链时同时提供网盘，无直链时只提供网盘，核查网盘分享，按统一主表汇总版本、下载地址、密码、来源及备注，并更新站点记录。"

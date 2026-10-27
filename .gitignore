@@ -1,0 +1,12 @@
+# Track only skill instructions, references, and repository metadata.
+*
+!/.gitignore
+!/LICENSE
+!/SKILL.md
+!/agents/
+/agents/*
+!/agents/openai.yaml
+!/references/
+/references/*
+!/references/site-records.md
+!/references/site-structures.md
