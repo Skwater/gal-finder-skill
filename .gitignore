@@ -4,9 +4,6 @@
 !/LICENSE
 !/README.md
 !/SKILL.md
-!/agents/
-/agents/*
-!/agents/openai.yaml
 !/references/
 /references/*
 !/references/site-records.md
